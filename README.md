@@ -41,3 +41,4 @@ npx hardhat run scripts/withdraw.js
 
 will allow you to withdraw any tips stored on the contract.
 
+--------------------------------------------------------------------------------
