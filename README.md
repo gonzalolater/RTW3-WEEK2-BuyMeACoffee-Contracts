@@ -48,3 +48,5 @@ will allow you to withdraw any tips stored on the contract.
 
 2. Alchemy interaction
 ![image](https://user-images.githubusercontent.com/42863568/201966921-f97e6b0d-2a4d-48e7-86bd-64c78ef1e65a.png)
+
+3. using my own wallet to make transaccions and withdraw the assets.
