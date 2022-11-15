@@ -50,3 +50,5 @@ will allow you to withdraw any tips stored on the contract.
 ![image](https://user-images.githubusercontent.com/42863568/201966921-f97e6b0d-2a4d-48e7-86bd-64c78ef1e65a.png)
 
 3. using my own wallet to make transaccions and withdraw the assets.
+![image](https://user-images.githubusercontent.com/42863568/201967843-f5ffddf1-2fbb-4779-ab8a-117db3ea1e50.png)
+
