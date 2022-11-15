@@ -52,3 +52,7 @@ will allow you to withdraw any tips stored on the contract.
 3. Using my own wallet in metamask, to make transaccions and withdraw the assets.
 ![image](https://user-images.githubusercontent.com/42863568/201967843-f5ffddf1-2fbb-4779-ab8a-117db3ea1e50.png)
 
+4. Mint Kudos 
+![image](https://user-images.githubusercontent.com/42863568/201975782-4db99e93-47fb-4b38-939e-8457bfff837b.png)
+
+
