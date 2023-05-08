@@ -42,19 +42,22 @@ npx hardhat run scripts/withdraw.js
 will allow you to withdraw any tips stored on the contract.
 
 --------------------------------------------------------------------------------
-
 1. Deploy 
 ![image](https://user-images.githubusercontent.com/42863568/201966580-50b389eb-0196-4379-8484-2dae817a5745.png)
 
+------------------------------------------------------------------------------------------------------------------------------
 2. Alchemy interaction
 ![image](https://user-images.githubusercontent.com/42863568/201966921-f97e6b0d-2a4d-48e7-86bd-64c78ef1e65a.png)
 
+------------------------------------------------------------------------------------------------------------------------------
 3. Using my own wallet in metamask, to make transaccions and withdraw the assets.
 ![image](https://user-images.githubusercontent.com/42863568/201967843-f5ffddf1-2fbb-4779-ab8a-117db3ea1e50.png)
 
+------------------------------------------------------------------------------------------------------------------------------
 4. Mint Kudos 
 ![image](https://user-images.githubusercontent.com/42863568/201975782-4db99e93-47fb-4b38-939e-8457bfff837b.png)
 
+------------------------------------------------------------------------------------------------------------------------------
 5. NFT 
-https://opensea.io/assets/matic/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6/611
 
+https://user-images.githubusercontent.com/42863568/236946425-85ce6c47-d307-473e-9128-cd13c1ee807b.mp4
